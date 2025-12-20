@@ -16,4 +16,4 @@
 - 🎲 I've tried almost every code editor out there, but I always end up coming back to VS Code 😀
 - 🌀 Steins;Gate is my all-time favorite anime!
 
-<img src="https://gifdb.com/images/high/steins-gate-okabe-and-kurisu-look-up-ys8los5dnjo4ocs4.gif" width="100%">
+<img src="https://gifdb.com/images/high/steins-gate-okabe-and-kurisu-look-up-ys8los5dnjo4ocs4.gif" width="80%">
