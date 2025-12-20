@@ -1,10 +1,12 @@
 # 👋 Hi there
 
-🎈 I'm <b>Özgür</b>, a 20-year-old aspiring developer based in Turkey.
+🎈 I'm **Özgür**, a 20-year-old aspiring developer based in Turkey.
 
-💾 I code both as a hobby and for my profession. Currently, I'm focusing on <b>React.js</b>, and my goal is to become a Full Stack Web Developer.
+💾 I code both as a hobby and for my profession. Currently, I'm focusing on `React.js`, and my goal is to become a Full Stack Web Developer.
 
 💎 To me, the only thing that makes programming truly fun is creating something I actually love.
+
+🌍 `Zustand` and `React Query` are easily the greatest inventions of all time.
 
 ## 🧪 Things I Work With
 
@@ -13,7 +15,7 @@
 #### ⚡ Fun Facts
 - 🎨 I love building projects based on my personal inspirations..
 - ⚙️ I can easily spend hours just customizing my code editor..
-- 🎲 I've tried almost every code editor out there, but I always end up coming back to VS Code 😀
-- 🌀 Steins;Gate is my all-time favorite anime!
+- 🎲 I've tried almost every code editor out there, but I always end up coming back to **VS Code** 😀
+- 🌀 **Steins;Gate** is my all-time favorite anime!
 
 <img src="https://gifdb.com/images/high/steins-gate-okabe-and-kurisu-look-up-ys8los5dnjo4ocs4.gif" width="80%">
