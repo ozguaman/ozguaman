@@ -2,7 +2,7 @@
 
 🎈 I'm **Özgür**, a 20-year-old aspiring developer based in Turkey.
 
-💾 I code both as a hobby and for my profession. Currently, I'm focusing on `Node.js`, and my goal is to become a Full Stack Web Developer.
+💾 I code both as a hobby and for my profession. Currently, I'm focusing on `Golang`, and my goal is to become a Full Stack Web Developer.
 
 💎 To me, the only thing that makes programming truly fun is creating something I actually love.
 
